@@ -36,7 +36,7 @@ This repository contains my verified solutions to all 10 weekly problem sets and
 
 ---
 
-## 🛠️ Skills & Technologies Demonstrated
+## Skills & Technologies Demonstrated
 
 * **Core Programming:** Data structures, recursion, dynamic loops, and functional paradigms.
 * **Software Engineering Practices:** Defensive programming, exception handling, and automated unit testing via `pytest`.
@@ -45,5 +45,5 @@ This repository contains my verified solutions to all 10 weekly problem sets and
 
 ---
 
-## 📜 Academic Honesty Note
+##  Academic Honesty Note
 This repository reflects coursework completed for educational purposes. Prospective students are strongly encouraged to adhere to Harvard University's [CS50 Academic Honesty Policy](https://cs50.harvard.edu/python/honesty/).
