@@ -1,0 +1,8 @@
+material,density_g_cm3,mu_cm_inv
+Lead,11.34,0.772
+Tungsten,19.25,1.251
+Depleted_Uranium,19.1,1.482
+Steel,7.87,0.471
+Concrete,2.35,0.149
+Water,1.0,0.071
+Borated_Polyethylene,1.08,0.082
