@@ -1,9 +1,5 @@
 # CS50P: Introduction to Programming with Python
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Course](https://img.shields.io/badge/HarvardX-CS50P-crimson?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
 This repository contains my verified solutions to all 10 weekly problem sets and the capstone final project for **Harvard University's CS50's Introduction to Programming with Python**.
 
 ---
